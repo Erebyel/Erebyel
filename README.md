@@ -7,7 +7,7 @@ Poco después de finalizar el *bootcamp* de **Ciencia de datos** en The Bridge (
 
 Por supuesto, mantengo mis otras actividades habituales: soy autónoma en **edición y corrección de textos**, además de hacer algún trabajo de tratamiento de datos. En cuanto a la edición, aunque no es algo que haya buscado, me he especializado en la literatura médica, manuales y contratos.
 
-Por ahora, en [www.erebyel.es "mi web"], hay algunos contenidos relacionados con la programación (muy pocos). En algún momento, convertiré este GitHub en mi porfolio y dejaré la web para el resto: escribir, locutar, dibujar y que me conozcáis mejor.
+Por ahora, en www.erebyel.es, hay algunos contenidos relacionados con la programación (muy pocos). En algún momento, convertiré este GitHub en mi porfolio y dejaré la web para el resto: escribir, locutar, dibujar y que me conozcáis mejor.
 
 Además, como se puede predecir, me quiero especializar en **Procesamiento de Lenguaje Natural** y actualmente estoy realizando un par de cursos de **TensorFlow** y **Keras** avanzado. Mi intención es seguir después aprendiendo más sobre **Transformers**, **Bert** y lo que esté por venir. Además de algunas herramientas como **Rasa** y la creación de asistentes virtuales *chatbots*.
 

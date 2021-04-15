@@ -1,15 +1,15 @@
 Erebyel es mi pseudónimo/marca; en el mundo real suelen llamarme Reyes. Me considero una mente inquieta a la que le gusta escribir, dibujar, leer, la ciencia y la tecnología. Resulta que, después de años evitando programar por *traumas infantiles* con un Win95, es algo que me gusta y en lo que estoy actualmente profundizando; por suerte, el pensamiento abstracto, lateral y computacional ya los llevaba años trabajando; además me gusta arreglar cosas y buscar soluciones.
 
 ## ¿Qué estoy haciendo actualmente?
-En mi plan inicial, quería dedicar los últimos meses de 2020 y el inicio de 2021 para ir recopilando y poniendo bonito mi porfolio de Ciencia de Datos; pero rara vez las cosas ocurren en el tiempo en el que lo planeamos. Eso de que *la vida tiene otros planes* y he tenido que posponerlo para hacerlo en la segunda mitad de 2021.
+En mi plan inicial, quería dedicar los últimos meses de 2020 y el inicio de 2021 para ir recopilando y poniendo bonito mi porfolio de Ciencia de Datos; rara vez las cosas ocurren en el tiempo en el que lo planeamos. Eso de que *la vida tiene otros planes* y he tenido que posponerlo para la segunda mitad de 2021.
 
-Al finalizar el *bootcamp* de **Ciencia de datos** en The Bridge (finales de octubre de 2020), poco después me ofrecieron ser la **Profesora Auxiliar de Ciencia de Datos** para la siguiente promoción que impartiría mi profesor, José Ramón; por supuesto, acepté porque la experiencia me ayudaría tanto a reforzar como a fijar los conocimientos que ya había adquirido.
+Poco después de finalizar el *bootcamp* de **Ciencia de datos** en The Bridge (finales de octubre de 2020), me ofrecieron ser la **Profesora Auxiliar de Ciencia de Datos** para la siguiente promoción que impartiría José Ramón (un profesor maravilloso); por supuesto, acepté porque la experiencia me ayudaría tanto a reforzar como a fijar los conocimientos que ya había adquirido.
 
-Por supuesto, mantengo mis otras actividades habituales: soy autónoma en **edición y corrección de textos**, además de hacer algún trabajo de tratamiento de datos. En cuanto a la edición, por alguna inexplicable razón (porque no es algo que haya buscado) me he especializado en la literatura médica, manuales y contratos.
+Por supuesto, mantengo mis otras actividades habituales: soy autónoma en **edición y corrección de textos**, además de hacer algún trabajo de tratamiento de datos. En cuanto a la edición, aunque no es algo que haya buscado, me he especializado en la literatura médica, manuales y contratos.
 
-Por ahora, en [www.erebyel.es "mi web"], hay algunos contenidos relacionados con la programación. En algún momento, convertiré este GitHub en mi porfolio y dejaré la web para el resto: escribir, dibujar y para que me conozcáis mejor.
+Por ahora, en [www.erebyel.es "mi web"], hay algunos contenidos relacionados con la programación (muy pocos). En algún momento, convertiré este GitHub en mi porfolio y dejaré la web para el resto: escribir, locutar, dibujar y que me conozcáis mejor.
 
-Además, como se puede suponer, me quiero especializar en el **Procesamiento de Lenguaje Natural**, por lo que actualmente estoy realizando un par de cursos de **TensorFlow** y **Keras** avanzado y, mi intención es luego seguir aprendiendo sobre **Transformers**, **Bert** y lo que esté por venir.
+Además, como se puede predecir, me quiero especializar en **Procesamiento de Lenguaje Natural** y actualmente estoy realizando un par de cursos de **TensorFlow** y **Keras** avanzado. Mi intención es seguir después aprendiendo más sobre **Transformers**, **Bert** y lo que esté por venir. Además de algunas herramientas como **Rasa** y la creación de asistentes virtuales *chatbots*.
 
 ## ¿Qué soy capaz de hacer?
 Después del curso inmersivo me siento cómoda trabajando con:
@@ -27,7 +27,7 @@ Después del curso inmersivo me siento cómoda trabajando con:
 - **Análisis de datos**: descriptivos, exploratorios y predictivos trabajando con las herramientas que ofrecen las bibliotecas de Python: **Pandas** y **NumPy**…
     - Codificación de archivos.
     - Tratamiento de datos perdidos, fuera de rango, raros, etiquetas, fechas, inconsistentes, conjuntos…
-    - Codificación de variables (*dummies* y *One Hot/Cold encoding*).
+    - Codificación de variables (*dummies* y *One Hot/Cold Encoding*).
 - y **Visualización y narrativa de datos (*storytelling*)**, con **MatPlotLib**, **Seaborn** y **Plotly**.
 
 - **Ingeniería de características**
@@ -76,7 +76,7 @@ Después del curso inmersivo me siento cómoda trabajando con:
     - Google Cloud
 
 **¿Por qué he puesto este currículo?**
-Una de las formas que tengo para reforzar y profundizar lo que aprendo es escribir explicaciones; lo que vienen a hacer apuntes. Mi intención es ir revisando corrigiendo, preparándolos correctamente para compartirlos y que formen parte de mi porfolio. Serán contenidos y explicaciones íntegramente en castellano; por lo que, además, podrían ayudar a quien esté comenzando a aprender sobre estos temas.
-Por supuesto, también incluiré algunas prácticas y ejercicios que he ido haciendo y lo que vaya descubriendo en un futuro.
+Una de las formas que tengo para reforzar y profundizar lo que aprendo es escribir explicaciones con mis palabras; lo que vienen a ser apuntes. Mi intención es ir corrigiendo y preparándolos correctamente para compartirlos y que formen parte de mi porfolio. Serán contenidos y explicaciones íntegramente en castellano; por lo que, además, podrían ayudar a quien esté comenzando a aprender sobre estos temas.
+Por supuesto, también incluiré algunas prácticas y ejercicios que he ido haciendo y lo que vaya descubriendo.
 
 Sobre **Gilbert**: aunque eso ya lo tenía en mente desde el principio, tengo pendiente darle una vuelta, ya que quería aprovechar que contiene errores para hablar sobre las Pep8 y algunas cosillas más relacionada con la creación de clases en Python, espero poder hacerlo pronto.

@@ -44,6 +44,8 @@ Después del curso inmersivo me siento cómoda trabajando con:
     - Herramientas para el entrenamiento, métricas y prediccion de modelos:
         - Elección del modelo: Validación Cruzada (*crossvalidation*).
         - Ajuste de hiperparámetros: GridSearch o RandomSearch para buscar los mejores parámetros para el modelo.
+        - Optimización de hiperparámetros.
+    - Algoritmos genéticos.
     - Detección de anomalías.
     - Trabajo con Series Temporales.
         - Statsmodels.

@@ -2,24 +2,24 @@ Erebyel es mi pseudónimo/marca; en el mundo real suelen llamarme Reyes.
 Me considero una mente inquieta a la que le gusta escribir, dibujar, leer, la ciencia y la tecnología.
 Resulta que, después de años evitando programar por *traumas infantiles* con un Win95, es algo que me gusta y en lo que estoy actualmente profundizando; por suerte, el pensamiento abstracto, lateral y computacional ya los llevaba años trabajando; además, por alguna razón, me gusta arreglar cosas y buscar soluciones.
 
-*Erebyel is my pseudonym/brand; in the real world I'm usually called Reyes.*
-*I consider myself a restless mind who likes writing, drawing, reading, science and technology.*
-*It turns out that, after years of avoiding programming due to* childhood trauma *with a Win95, it's something I enjoy and am currently delving into; luckily, abstract, lateral and computational thinking I've been working on for years; plus, for some reason, I like to fix things and look for solutions.*
+ <span style="color:blue">*Erebyel is my pseudonym/brand; in the real world I'm usually called Reyes.*</span>
+ <span style="color:blue">*I consider myself a restless mind who likes writing, drawing, reading, science and technology.*</span>
+ <span style="color:blue">*It turns out that, after years of avoiding programming due to* childhood trauma *with a Win95, it's something I enjoy and am currently delving into; luckily, abstract, lateral and computational thinking I've been working on for years; plus, for some reason, I like to fix things and look for solutions.*</span>
 
-## ¿Qué estoy haciendo actualmente? | What am I currently doing?
+## ¿Qué estoy haciendo actualmente? | <span style="color:blue">*What am I currently doing?*</span>
 En mi plan inicial, quería dedicar los últimos meses de 2020 y el inicio de 2021 para ir recopilando y poniendo bonito mi porfolio de Ciencia de Datos; pero rara vez las cosas ocurren en el tiempo en el que lo planeamos. Eso de que *la vida tiene otros planes* y he tenido que posponerlo para hacerlo en la segunda mitad de 2021.
 Al finalizar el *bootcamp* de **Ciencia de datos** en The Bridge (finales de octubre de 2020), poco después me ofrecieron ser la **Profesora Auxiliar de Ciencia de Datos** para la siguiente promoción que impartiría mi profesor, José Ramón; por supuesto, acepté porque la experiencia me ayudaría tanto a reforzar como a fijar los conocimientos que ya había adquirido.
 
+ <span style="color:blue">*In my initial plan, I wanted to dedicate the last months of 2020 and the beginning of 2021 to compiling and making my Data Science portfolio pretty; but things rarely happen in the time we plan them. That* life has other plans *and I had to postpone it to the second half of 2021.*</span>
+ <span style="color:blue">*At the end of the **Data Science** bootcamp at The Bridge (end of October 2020), shortly after I was offered to be the **Assistant Professor of Data Science** for the next class to be taught by my teacher, José Ramón; of course, I accepted because the experience would help me both reinforce and fix the knowledge I had already acquired.*</span>
+
 Por supuesto, mantengo mis otras actividades habituales: soy autónoma en **edición y corrección de textos**, además de hacer algún trabajo de tratamiento de datos. En cuanto a la edición, por alguna inexplicable razón (porque no es algo que haya buscado) me he especializado en la literatura médica, manuales y contratos.
 
-*Por ahora, en www.erebyel.es, hay algunos contenidos relacionados con la programación. En algún momento, convertiré este GitHub en mi porfolio y dejaré la web para el resto: escribir, dibujar y para que me conozcáis mejor.*
+ <span style="color:blue">*Of course, I keep up my other usual activities: I am self-employed in **editing and proofreading**, as well as doing some data processing work. As for editing, for some inexplicable reason (because it's not something I sought out) I have specialised in medical literature, manuals and contracts.*</span>
 
-*In my initial plan, I wanted to dedicate the last months of 2020 and the beginning of 2021 to compiling and making my Data Science portfolio pretty; but things rarely happen in the time we plan them. That* life has other plans *and I had to postpone it to the second half of 2021.*
-*At the end of the **Data Science** bootcamp at The Bridge (end of October 2020), shortly after I was offered to be the **Assistant Professor of Data Science** for the next class to be taught by my teacher, José Ramón; of course, I accepted because the experience would help me both reinforce and fix the knowledge I had already acquired.*
+Por ahora, en [www.erebyel.es "mi web"], hay algunos contenidos relacionados con la programación. En algún momento, convertiré este GitHub en mi porfolio y dejaré la web para el resto: escribir, dibujar y para que me conozcáis mejor.
 
-*Of course, I keep up my other usual activities: I am self-employed in **editing and proofreading**, as well as doing some data processing work. As for editing, for some inexplicable reason (because it's not something I sought out) I have specialised in medical literature, manuals and contracts.*
-
-*For now, at www.erebyel.es, there is some programming-related content. At some point, I'll turn this GitHub into my portfolio and leave the web for the rest: writing, drawing and getting to know me better.*
+<span style="color:blue">*For now, at [www.erebyel.es my website], there is some programming-related content. At some point, I'll turn this GitHub into my portfolio and leave the web for the rest: writing, drawing and getting to know me better.*</span>
 
 ## ¿Cómo quiero seguir avanzando?
 Actualmente, aparte de ser Profesora Auxiliar por un lado, Editora y Correctora freelance (texto) y escritora en mis ratos libres. Estoy con un curso de especialización de TensorFlow y Keras. Mi intención luego es profundizar en lo que realmente me interesa que es el **Procesamiento de Lenguaje Natural**, los **Transformers** y aprender convenientemente cómo trabajar con **Bert**, tocar **Rasa**. Pero esto es todavía la lista de deseos.

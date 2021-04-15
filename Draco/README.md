@@ -1,3 +1,5 @@
+# DracoDB
+
 Llevo unos cuantos años diagramando una base de datos relacional para llevar la producción de una editorial, de forma que la información de los procesos que se llevan a cabo en una, esté disponible en un único lugar. Actualmente, podría decir que estoy en fase de pulir el SQL en su 3ª versión.
 
 Mi intención con este proyecto es terminar un archivo SQL que genere la base de datos ejecutándola a través de un programa tipo SQLiteStudio y que tengas de primeras tanto las tablas como sus relaciones pertinentes y una indexación. Tras esta primera fase, quiero implementar una GUI sencilla a través de Python (con la librería, en principio, tkinter) y ver hasta dónde puedo llegar generando las consultas necesarias para que se implemente la base de datos con la librería sqlite3.

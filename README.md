@@ -20,4 +20,4 @@ Por ahora, en www.erebyel.es, hay algunos contenidos relacionados con la program
 Además, como se puede predecir, me quiero especializar en **Procesamiento de Lenguaje Natural** y actualmente estoy realizando un par de cursos de **TensorFlow** y **Keras** avanzado. Mi intención es seguir después aprendiendo más sobre **Transformers**, **Bert** (Lamda y Mum, también) y lo que esté por venir. Además de algunas herramientas como **Rasa** y la creación de asistentes virtuales *chatbots*.
 
 
-* *Imagen de perfil modelada con el motor gráfico de [MetaHuman Creator (Unreal Engine)](https://metahuman.unrealengine.com/)*
+**Imagen de perfil modelada con el motor gráfico de [MetaHuman Creator (Unreal Engine)](https://metahuman.unrealengine.com/)*

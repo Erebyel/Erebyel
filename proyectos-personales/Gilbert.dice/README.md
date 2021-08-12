@@ -43,8 +43,6 @@ Existe un spin-off de esta antología, Dientes de león, que ya tengo publicada 
 
 Cuando me planteé pasar a un programa el generador de ideas que creé para el taller de Escríbeme, Cerveza, sentí que debía darle un nombre más “atractivo”; recordé entonces a Gilbert ya que, el generador que hice en Excel y, por supuesto, su versión en Python, daban ideas tan inconexas, extrañas y extravagantes que bien podrían haber sido parte de la antología de relatos de Gilbert. Podría decirse que fue una asociación natural.
 
-En cuanto al .dice() es, claramente, culpa del Simon dice y de las clases de Python.
-
 ## El origen de la idea
 *(23 de enero de 2021)*
 

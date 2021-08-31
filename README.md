@@ -8,3 +8,5 @@ Si nos ceñimos al currículo de mi carrera, soy una **profesional de la informa
 He trabajado tanto coordinando a un grupo como proyectos; además, he sido dos años autónoma, lo que requería una gestión de tiempo y coordinación de agenda para llegar a todo. Además, sin tener en quién delegar las tareas —excepto las de gestiones con la administración, antes de meter la pata, prefiero que me lo lleve alguien que conoce todos los entresijos—.
 
 Desde adolescente suelo escribir, para mí, pero eso me llevó a interesarme profundamente por el sector editorial y, actualmente, sigo trabajando como **editora y correctora de textos**; es lógico pensar que, teniendo este recorrido, acabase interesándome por la gestión del lenguaje por parte de las máquinas (PLN) y es en lo que actualmente invierto más tiempo de estudio autodidacta.
+
+Últimamente suelo *perder* mucho tiempo jugando con GPT-3 y Codex.

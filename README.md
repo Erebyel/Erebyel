@@ -1,23 +1,10 @@
-Erebyel es mi pseudónimo/marca; en el mundo real suelen llamarme Reyes. Me considero una mente inquieta y muy, muy curiosa a la que le gusta escribir, dibujar, leer, la ciencia y la tecnología. Resulta que, después de años evitando programar por *traumas infantiles* con un Win95, es algo que me gusta y en lo que estoy actualmente profundizando; por suerte, el pensamiento abstracto, lateral y computacional ya los llevaba años trabajando; además me gusta arreglar cosas y buscar soluciones.
+Erebyel es mi pseudónimo de Internet (hasta cierto punto, podría considerarse mi marca); en el mundo real suelen llamarme Reyes. Intelectualmente inquieta, polifacética, imaginativa y curiosa, invierto la mayor parte de mi tiempo en aprender; aunque rara vez me cierro a probar cosas nuevas, tiendo a actividades solitarias (cosas de ser introvertida). Me gusta escribir, dibujar, hacer manualidades, arreglar cosas y buscar soluciones… leer, sobre todo ciencias (mayoritariamente enfocadas a la biología y la medicina, aunque la astronomía siempre me ha hecho soñar) y, por supuesto, la tecnología; dentro de esta última, la inteligencia artificial es apasionante y me introduje en ella hace muy poco tiempo. Sobre todo, me interesan las líneas de investigación del Procesamiento de Lenguaje Natural y, con ello, la arquitectura *transformer*.
 
-## Roles en los que suelo trabajar habitualmente
-1. Profesional de la información (documentalista) (los que, idealmente, estructuran y tratan la información para gestionarla, almacenarla y extraerla de forma óptima)
-2. Coordinadora de recursos
-3. Editora y correctora de textos
-4. Escritora/artista en mis ratos libres
-5. Científica de datos
-6. Aprendiz de IA y NLP
+## Mis roles
+Como rara vez me quedo quieta en un sector y voy libando de varias fuentes, al final, tengo un perfil profesional difícil de explicar en una sola línea (como a veces piden en algunas entrevistas de trabajo).
 
-## ¿Qué estoy haciendo actualmente?
-En mi plan inicial, quería dedicar los últimos meses de 2020 y el inicio de 2021 para ir recopilando y poniendo bonito mi porfolio de Ciencia de Datos; rara vez las cosas ocurren en el tiempo en el que lo planeamos. Eso de que *la vida tiene otros planes* y he tenido que posponerlo para la segunda mitad de 2021.
+Si nos ceñimos al currículo de mi carrera, soy una **profesional de la información** (documentalista) (los que, idealmente, estructuran y tratan la información para gestionarla, almacenarla y extraerla de forma óptima) que, además, tiene formación como **científica de datos**; lo que hace que me guste la *tarea tediosa de* limpieza y tratamiento de datos.
 
-Poco después de finalizar el *bootcamp* de **Ciencia de datos** en The Bridge (finales de octubre de 2020), me ofrecieron ser la **Profesora Auxiliar de Ciencia de Datos** para la siguiente promoción que impartiría José Ramón (un profesor maravilloso); por supuesto, acepté porque la experiencia me ayudaría tanto a reforzar como a fijar los conocimientos que ya había adquirido. Puedes consultar la lista de herramientas, recursos y conocimientos que adquirí durante el curso en [The Bridge 2020](https://github.com/Erebyel/Erebyel/blob/bd0a1c43059746829964be01e7df7afb5fcb0a50/TheBridge-2020.md)
+He trabajado tanto coordinando a un grupo como proyectos; además, he sido dos años autónoma, lo que requería una gestión de tiempo y coordinación de agenda para llegar a todo. Además, sin tener en quién delegar las tareas —excepto las de gestiones con la administración, antes de meter la pata, prefiero que me lo lleve alguien que conoce todos los entresijos—.
 
-Por supuesto, mantengo mis otras actividades habituales: soy autónoma en **edición y corrección de textos**, además de hacer algún trabajo de tratamiento de datos. En cuanto a la edición, aunque no es algo que haya buscado, me he especializado en la literatura médica, manuales y contratos.
-
-Por ahora, en www.erebyel.es, hay algunos contenidos relacionados con la programación (muy pocos). En algún momento, convertiré este GitHub en mi porfolio y dejaré la web para el resto: escribir, locutar, dibujar y que me conozcáis mejor.
-
-Además, como se puede predecir, me quiero especializar en **Procesamiento de Lenguaje Natural** y actualmente estoy realizando un par de cursos de **TensorFlow** y **Keras** avanzado. Mi intención es seguir después aprendiendo más sobre **Transformers**, **Bert** (Lamda y Mum, también) y lo que esté por venir. Además de algunas herramientas como **Rasa** y la creación de asistentes virtuales *chatbots*.
-
-
-**Imagen de perfil modelada con el motor gráfico de [MetaHuman Creator (Unreal Engine)](https://metahuman.unrealengine.com/)*
+Desde adolescente suelo escribir, para mí, pero eso me llevó a interesarme profundamente por el sector editorial y, actualmente, trabajo como editora y correctora de textos; es lógico pensar que, teniendo este recorrido, acabase interesándome por la gestión del lenguaje por parte de las máquinas y es en lo que actualmente invierto más tiempo de estudio autodidacta.

@@ -9,4 +9,5 @@ He trabajado tanto coordinando a un grupo como proyectos; además, he sido dos a
 
 Desde adolescente suelo escribir, para mí, pero eso me llevó a interesarme profundamente por el sector editorial y, actualmente, sigo trabajando como **editora y correctora de textos**; es lógico pensar que, teniendo este recorrido, acabase interesándome por la gestión del lenguaje por parte de las máquinas (PLN) y es en lo que actualmente invierto más tiempo de estudio autodidacta.
 
+
 Últimamente suelo *perder* mucho tiempo jugando con GPT-3 y Codex.

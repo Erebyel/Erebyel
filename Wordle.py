@@ -62,7 +62,7 @@ def juego():
     if palabra != jugador:
         print('\n||====SE ACABÓ====||\nLo siento, has superado el número de intentos, la palabra era: ' + palabra)
 
-juego()
-jugar = input('¿Quieres jugar de nuevo? Responda: S/N \n Respuesta:').upper()
+jugar = 'S'
 while 'S' in list(jugar):
     juego()
+    jugar = input('¿Quieres jugar de nuevo? Responda: S/N \n Respuesta:').upper()
